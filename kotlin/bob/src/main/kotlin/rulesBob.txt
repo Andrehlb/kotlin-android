@@ -1,0 +1,22 @@
+Introdução
+Bob é um adolescente indiferente. Ele gosta de pensar que é muito legal.
+E ele definitivamente não fica animado com as coisas. Isso não seria legal.
+
+Quando as pessoas falam com ele, suas respostas são bastante limitadas.
+
+Instruções
+Sua tarefa é determinar o que Bob responderá a alguém quando disser algo a ele ou fizer uma pergunta.
+
+Bob só responde a uma das cinco coisas:
+
+"Claro." Esta é a resposta dele se você fizer uma pergunta, como "Como você está?"
+A convenção usada para perguntas é que termina com um ponto de interrogação.
+"Uau, relaxe!" Esta é a resposta dele se você GRITAR COM ELE.
+A convenção usada para gritar é TODAS AS LETRAS MAIÚSCULAS.
+"Acalme-se, eu sei o que estou fazendo!"
+Isso é o que ele diz se você gritar uma pergunta para ele.
+"Tudo bem. Seja assim!" É assim que ele responde ao silêncio.
+A convenção usada para o silêncio é nada, ou várias combinações de caracteres de espaço em branco.
+"Tanto faz." Isso é o que ele responde a qualquer outra coisa.
+Fonte
+Inspirado no exercício 'Vovó Surda' no tutorial Aprenda a Programar de Chris Pine.

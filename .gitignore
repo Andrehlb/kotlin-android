@@ -1,0 +1,50 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle files
+.gradle/
+build/
+**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android files
+*.apk
+*.ap_
+*.aab
+local.properties
+proguard/
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+captures/
+.externalNativeBuild
+.cxx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin files
+*.class
+*.jar
+*.war
+
+# Log files
+*.log
+
+# Database files
+*.db
+*.sqlite
+
+# Other
+*.tmp
+*.bak
+*.swp
+*~.nib
