@@ -4,10 +4,15 @@ Este repositório contém minhas soluções para exercícios de programação em
 
 ## 📁 Estrutura do projeto
 
-- `bob/` – Exercícios de lógica baseados em regras simples (como o comportamento do personagem Bob)
+- `bob/` – Exercícios de lógica baseados em regras simples
 - `collatz-conjecture/` – Implementação da conjectura de Collatz
-- `reverse-string/` – Algoritmo para inverter strings
+- `darts/` – Cálculo de pontuação em dardos
+- `eliuds-eggs/` – Contagem de bits usando algoritmo de Eliud
+- `etl/` – Transformação de dados (Extract, Transform, Load)
+- `grains/` – Cálculo exponencial com grãos de trigo no tabuleiro
 - `hello-world/` – Exercício introdutório
+- `isogram/` – Verifica se uma palavra tem letras repetidas
+- `reverse-string/` – Algoritmo para inverter strings
 
 Cada pasta pode conter:
 - Arquivo(s) com a solução em Kotlin
