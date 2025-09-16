@@ -33,3 +33,19 @@ Cada exercício é independente e pode ser testado separadamente.
 
 Este repositório está sincronizado com o GitHub via integração automática.  
 As soluções são organizadas por exercício e por versão (quando aplicável).
+
+## 🙏 Agradecimentos 
+### 👨‍🏫 Instrutores e mentores
+- **Felippe Dapollo** – Professor e líder técnico
+- **Vinicius Lima Silva** – Desenvolvedor Android e mentor
+- **Steffeson Wesley Lira** – Analista de Desenvolvimento de Software
+- **Mariana da Silva Gigliotti** – Desenvolvedora Android
+
+### 🧑‍💻 Equipe técnica e organizadora
+- **Maresa**
+- **Raissa**
+
+### 👥 Colegas da turma
+A todos os colegas e que seguem comigo nessa trilha de aprendizado em Kotlin e Android, pela Venturus.
+Meu sincero agradecimento.
+A troca de experiências tem sido essencial para tornar essa jornada mais rica e colaborativa.
