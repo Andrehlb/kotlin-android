@@ -1,6 +1,8 @@
 # kotlin-android
 
-Este repositório contém minhas soluções para exercícios de programação em **Kotlin**, com foco em **desenvolvimento Android** e desafios de lógica.
+Este repositório contém minhas soluções para exercícios de programação em 
+**[Kotlin exercises on Exercism](https://exercism.org/tracks/kotlin/exercises)**, com foco em 
+**desenvolvimento Android** e desafios de lógica.
 
 ## 📁 Estrutura do projeto
 
