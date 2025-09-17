@@ -44,7 +44,7 @@ As soluções são organizadas por exercício e por versão (quando aplicável).
 - **Mariana da Silva Gigliotti** – Desenvolvedora Android
 
 ### 🧑‍💻 Equipe técnica e organizadora
-- **Maresa Ramalho - **
+- **Maresa Ramalho -**
 - **Raissa**
 
 ### 👥 Colegas da turma
